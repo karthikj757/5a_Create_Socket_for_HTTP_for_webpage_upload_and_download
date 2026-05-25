@@ -90,9 +90,10 @@ while True:
 
 <img width="1073" height="266" alt="Screenshot 2026-05-25 083938" src="https://github.com/user-attachments/assets/663d6d06-34d1-47db-9984-3e66454cfe82" />
 
-## Upload.txt:
+## Upload:
 
 <img width="590" height="270" alt="Screenshot 2026-05-25 083958" src="https://github.com/user-attachments/assets/00c7de48-f411-4ac6-a0c6-c25134745c13" />
+<img width="590" height="227" alt="Screenshot 2026-05-25 084701" src="https://github.com/user-attachments/assets/39e41d2e-6411-4a41-ab60-ed92032782f6" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
